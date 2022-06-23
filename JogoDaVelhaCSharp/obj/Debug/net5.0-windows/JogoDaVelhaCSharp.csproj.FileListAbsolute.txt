@@ -1,0 +1,36 @@
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.exe
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.deps.json
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.runtimeconfig.json
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.runtimeconfig.dev.json
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.dll
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\ref\JogoDaVelhaCSharp.dll
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.pdb
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.csproj.AssemblyReference.cache
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.Form1.resources
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.csproj.GenerateResource.cache
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.AssemblyInfoInputs.cache
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.AssemblyInfo.cs
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.dll
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\ref\JogoDaVelhaCSharp.dll
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.pdb
+C:\Users\Bruno Oliveiraa\source\repos\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.genruntimeconfig.cache
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.dll
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.pdb
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.exe
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.deps.json
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.runtimeconfig.json
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.runtimeconfig.dev.json
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.dll
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\bin\Debug\net5.0-windows\JogoDaVelhaCSharp.pdb
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.csproj.AssemblyReference.cache
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.Form1.resources
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.csproj.GenerateResource.cache
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.AssemblyInfoInputs.cache
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.AssemblyInfo.cs
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.csproj.CoreCompileInputs.cache
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\refint\JogoDaVelhaCSharp.dll
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\JogoDaVelhaCSharp.genruntimeconfig.cache
+F:\Downloads\JogoDaVelhaCSharp-20220623T104601Z-001\JogoDaVelhaCSharp\JogoDaVelhaCSharp\obj\Debug\net5.0-windows\ref\JogoDaVelhaCSharp.dll
