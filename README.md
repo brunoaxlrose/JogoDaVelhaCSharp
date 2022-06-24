@@ -1,6 +1,6 @@
 ## JogoDaVelhaCSharp ##
 <p align="center">
-    <img width="470" src="JogoDaVelhaCSharp/JogoDaVelhaCSharp/obj/jogoveelha.PNG">    
+    <img width="470" src="JogoDaVelhaCSharp/obj/jogovelha.PNG">    
 </p>
 
 ## Description
