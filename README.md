@@ -1,8 +1,12 @@
 ## JogoDaVelhaCSharp ##
 
-# Imagem do programa em execução.
+# Imagem programa em execução.
 <p align="center">
     <img width="470" src="JogoDaVelhaCSharp/obj/jogovelha.PNG">    
+</p>
+# Gif programa em execução.
+<p align="center">
+    <img width="470" src="JogoDaVelhaCSharp/obj/jogovelha.gif">    
 </p>
 
 ## Descrição do Programa
